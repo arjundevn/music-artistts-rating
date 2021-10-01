@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  /* background-image: linear-gradient(to bottom right,#8B5CF6, #DDD6FE); */
+  background-image: linear-gradient(to right, #dc2626, #fbbf24);
+}
+
+.res p {
+  border: 2px solid black;
+  height: 2rem;
+  padding: 1rem;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+button {
+  height: 3rem;
+  width: 5rem;
+}

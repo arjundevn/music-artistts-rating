@@ -1,2 +1,2 @@
-# music-artistts-rating
+# musical-instrument-emojis
 Created with CodeSandbox
